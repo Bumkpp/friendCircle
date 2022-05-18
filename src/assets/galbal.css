@@ -1,0 +1,27 @@
+.van-ellipsis {
+    overflow: visible !important;;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+}
+.van-nav-bar__content {
+    height: 1.61333rem !important;
+    background-color: black;
+}
+.van-nav-bar__title {
+    font-size: 0.66rem !important;
+    color: #fff;
+}
+.van-nav-bar__arrow {
+    font-size: 0.8rem !important;
+}
+.van-grid-item__content--center {
+    -webkit-box-align: center;
+    align-items: center;
+    -webkit-box-pack: center;
+    justify-content: center;
+}
+.like[data-v-1949915c] {
+    display: flex;
+    align-items: center;
+}
+
